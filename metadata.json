@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Atendimento Ambulatorial AMV",
+  "description": "Sistema completo para cadastro de pacientes, registro de exames, geração de fichas de atendimento e relatórios diários com persistência local.",
+  "requestFramePermissions": []
+}
